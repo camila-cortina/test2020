@@ -12,3 +12,5 @@ More edits made in class
 EVEN MORE EDITS
 
 okay really last edits
+
+okay now doing the same through Rstudio
