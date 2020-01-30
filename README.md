@@ -6,3 +6,5 @@ I am making edits to this file using markdown
 **bold** *italic*
 
 some new edits
+
+More edits made in class
